@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "744FWWTMlJ9l1gHXhmPPyC",
+    "name" : "GetAgentDetails",
+    "type" : "AI_SERVICE_CONNECTOR",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "ULqv1MuzBq695kc-gt-34329224-2022-12-07T19:41:24.752Z::svc.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Get the Agent Details",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2025-03-10T17:21:10.153Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}

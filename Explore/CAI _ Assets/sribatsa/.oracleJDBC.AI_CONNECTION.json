@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "i7eLx0WYbA1ediPaLMPRmG",
+    "name" : "oracleJDBC",
+    "type" : "AI_CONNECTION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "jBeE1KoJBUhtyco-gt-12123494-2023-03-12T20:18:11.156Z::conn.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2025-03-10T17:21:10.149Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}

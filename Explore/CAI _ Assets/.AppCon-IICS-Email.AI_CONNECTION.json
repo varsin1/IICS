@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "1kt9pLDvpMyimkeve3qya4",
+    "name" : "AppCon-IICS-Email",
+    "type" : "AI_CONNECTION",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "GJZx1XmgaabclvA-gt-13081477-2024-10-10T17:16:45.525Z::conn.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Email app connection to send notification emails from InformaticaDev@FultonHogan.com",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2025-03-10T17:21:10.149Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}

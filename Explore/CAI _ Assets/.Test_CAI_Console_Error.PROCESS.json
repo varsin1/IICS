@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "0dZyA2YYFKFe5ZgRP7skG3",
+    "name" : "Test_CAI_Console_Error",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "wnHUPAZf5kck8jK-gt-1461520-2024-11-20T20:59:27.363Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2025-03-10T17:21:10.150Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}

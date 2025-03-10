@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "4JRo839qk32gelN49GC6Aa",
+    "name" : "ICAI_48266",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "gpbdoPVm5Y6tMFy-gt-9044555-2024-11-19T00:00:11.116Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2025-03-10T17:21:10.149Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
